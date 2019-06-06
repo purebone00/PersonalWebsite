@@ -34,9 +34,12 @@
       <div class="site-mobile-menu-body"></div>
     </div>
 
-    <div id="navigation"></div>
     <?php include 'includes/components/navBar.php'; ?>
 
+
+    <!--
+      This is the first thing people will see, short introduction aswell as a picture to showcase what i'm like as a person.
+    -->
     <div class="site-blocks-cover overlay bg-light" id="home-section">
 
       <div class="container">
@@ -45,9 +48,9 @@
           <div class="col-md-12 mt-lg-5 text-left align-self-center text-intro">
             <div class="row">
               <div class="col-lg-6">
-                <h1 class="text-white">I'm Craig Smith</h1>
-                <p class="text-secondary">Photographer <span class="mx-3">|</span> Speaker</p>
-                <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus voluptate dolore, nostrum inventore quisquam totam dignissimos culpa! Eveniet.</p>
+                <h1 class="text-white">I'm Albert Chen</h1>
+                <p class="text-secondary">Computer Software Engineer <span class="mx-3">|</span> Graduate From BCIT</p>
+                <p class="lead">Grounded and People-oriented Software Engineer with extensive management experience. Invested interest in System Architecture, Enterprise Technology, and Cloud-based Technology. Currently working on recieving certification in the leading server bases qualifications.</p>
                 <p><a href="#contact-section" class="btn smoothscroll btn-primary">Contact Me</a></p>
               </div>
             </div>
@@ -412,17 +415,7 @@
 
   </div> <!-- .site-wrap -->
 
-  <script src="js_libraries/jquery-3.3.1.min.js"></script>
-  <script src="js_libraries/jquery-ui.js"></script>
-  <script src="js_libraries/popper.min.js"></script>
-  <script src="js_libraries/bootstrap.min.js"></script>
-  <script src="js_libraries/owl.carousel.min.js"></script>
-  <script src="js_libraries/jquery.easing.1.3.js"></script>
-  <script src="js_libraries/aos.js"></script>
-  <script src="js_libraries/jquery.fancybox.min.js"></script>
-  <script src="js_libraries/jquery.sticky.js"></script>
-
-  <script src="js/main.js"></script>
+  <?php include 'includes/components/scripts.php'; ?>
 
   </body>
 </html>
