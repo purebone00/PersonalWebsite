@@ -6,7 +6,7 @@
 
 jQuery(document).ready(function($) {
 
-  $(function(){ $('#navigation').load('includes/components/navBar.html'); });
+  //$(function(){ $('#navigation').load('includes/components/navBar.html'); });
 
 	"use strict";
 
