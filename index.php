@@ -124,21 +124,19 @@
           </div>
           <div class="col-lg-6 order-2 order-lg-1">
             <img class="img-fluid mb-4" src="images/credo_img_1.jpg" alt="Image">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat repudiandae cupiditate, aspernatur ipsa enim magnam quaerat pariatur vero provident necessitatibus amet saepe officiis labore. Provident deserunt necessitatibus expedita. Voluptate, soluta?</p>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo praesentium quibusdam minus voluptatem sequi iure amet?</p>
+            <p>I just like having fun.</p>
           </div>
           <div class="col-lg-6 order-3 pl-lg-5 order-lg-2">
             <div class="mb-5">
-              <strong class="text-black">Photographer</strong>
+              <strong class="text-black">Java</strong>
               <div class="progress">
-                <div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"
-                  style="width: 89%;">
+                <div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 89%;">
                   <span>89%</span>
                 </div>
               </div>
             </div>
             <div class="mb-5">
-              <strong class="text-black">Wedding</strong>
+              <strong class="text-black">C#</strong>
               <div class="progress">
                 <div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"
                   style="width: 75%;">
@@ -147,7 +145,7 @@
               </div>
             </div>
             <div class="mb-5">
-              <strong class="text-black">Events</strong>
+              <strong class="text-black">Web Development</strong>
               <div class="progress">
                 <div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"
                   style="width: 94%;">
@@ -156,7 +154,7 @@
               </div>
             </div>
             <div class="mb-5">
-              <strong class="text-black">Conferences</strong>
+              <strong class="text-black">Server-side Processes</strong>
               <div class="progress">
                 <div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"
                   style="width: 94%;">
