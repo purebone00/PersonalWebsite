@@ -27,11 +27,10 @@
       </div>
       <div class="col-md-3">
         <h3 class="footer-title">Follow Me</h3>
-        <a href="#" class="social-circle p-2"><span class="icon-twitter"></span></a>
-        <a href="#" class="social-circle p-2"><span class="icon-facebook"></span></a>
-        <a href="#" class="social-circle p-2"><span class="icon-instagram"></span></a>
-        <a href="#" class="social-circle p-2"><span class="icon-dribbble"></span></a>
-        <a href="#" class="social-circle p-2"><span class="icon-linkedin"></span></a>
+        <a href="https://twitter.com/Purebone0" class="social-circle p-2"><span class="icon-twitter"></span></a>
+        <a href="https://www.facebook.com/Purebone00" class="social-circle p-2"><span class="icon-facebook"></span></a>
+        <a href="https://www.instagram.com/purebone00/" class="social-circle p-2"><span class="icon-instagram"></span></a>
+        <a href="https://www.linkedin.com/in/afcchen/" class="social-circle p-2"><span class="icon-linkedin"></span></a>
       </div>
     </div>
   </div>

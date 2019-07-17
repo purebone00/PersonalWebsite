@@ -51,7 +51,13 @@
                 <h1 class="text-white">I'm Albert Chen</h1>
                 <p class="text-secondary">Computer Software Engineer <span class="mx-3">|</span> Graduate From BCIT</p>
                 <p class="lead">Grounded and People-oriented Software Engineer with extensive management experience. Invested interest in System Architecture, Enterprise Technology, and Cloud-based Technology. Currently working on recieving certification in the leading server bases qualifications.</p>
-                <p><a href="#contact-section" class="btn smoothscroll btn-primary">Contact Me</a></p>
+                <p>Contact Me<br/>
+                  <a href="https://www.linkedin.com/in/afcchen/" class="social-circle p-2"><span class="icon-linkedin"></span></a>
+                  <a href="https://twitter.com/Purebone0" class="social-circle p-2"><span class="icon-twitter"></span></a>
+                  <a href="https://www.facebook.com/Purebone00" class="social-circle p-2"><span class="icon-facebook"></span></a>
+                  <a href="https://www.instagram.com/purebone00/" class="social-circle p-2"><span class="icon-instagram"></span></a>
+                  <a href="https://github.com/purebone00" class="social-circle p-2"><span class="icon-github"></span></a>
+                </p>
               </div>
             </div>
           </div>
