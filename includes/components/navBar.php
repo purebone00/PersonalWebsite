@@ -26,7 +26,7 @@ Default Navigation Bar
       <div class="text-left">
         <nav class="site-navigation position-relative" role="navigation">
           <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
-            <li><a href="#contact-section" class="nav-link">Contact</a></li>
+            <li><a href="albertchen.space" class="nav-link">Contact</a></li>
           </ul>
         </nav>
         <div class="d-inline-block d-lg-none" style="position: relative; top: 3px;"><a href="#" class="site-menu-toggle js-menu-toggle float-right"><span class="icon-menu h3"></span></a></div>
